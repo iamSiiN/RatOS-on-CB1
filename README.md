@@ -21,7 +21,8 @@ su - pi
 
 Clone this repository using the command:
 
-git clone https://github.com/koder-guy/RatOS-on-CB1.git
+git clone https://github.com/iamSiiN/RatOS-on-CB1.git
+
 
 Then finally run the build script:
 
